@@ -1,6 +1,7 @@
 # Damn Vulnerable NodeJS Application (DVNA) 
 
 ![dvna-logo](docs/resources/dvna.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fdvna.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fdvna?ref=badge_shield)
 
 Damn Vulnerable NodeJS Application (DVNA) is a simple NodeJS application to demonstrate [**OWASP Top 10 Vulnerabilities**](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project#OWASP_Top_10_for_2013) and guide on fixing and avoiding these vulnerabilities. The [fixes](https://github.com/appsecco/dvna/tree/fixes) branch will contain fixes for the vulnerabilities.
 
@@ -118,3 +119,6 @@ In case of bugs in the application, please create an issue on github. Pull reque
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fdvna.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fdvna?ref=badge_large)
